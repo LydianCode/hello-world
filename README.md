@@ -1,2 +1,3 @@
 # hello-world
-This is my very first repository.
+
+Hello Humans! Join Lydian Code. My journey to become an incredible Web Developer!
